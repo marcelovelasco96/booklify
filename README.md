@@ -24,7 +24,7 @@ Aplicación web desarrollada en Laravel para gestionar reservas, servicios y hor
 
 ## Proyecto demo
 
-Booklify fue desarrollado como una plataforma simple y moderna para reservas online orientadas a pequeños negocios y servicios.
+El proyecto nació como una solución enfocada en negocios pequeños que necesitan gestionar reservas online de forma simple, rápida y sin depender de plataformas complejas.
 
 ## Autor
 
