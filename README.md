@@ -26,6 +26,20 @@ Aplicación web desarrollada en Laravel para gestionar reservas, servicios y hor
 
 El proyecto nació como una solución enfocada en negocios pequeños que necesitan gestionar reservas online de forma simple, rápida y sin depender de plataformas complejas.
 
+## Capturas
+
+### Reservas online
+![Reservas](reservas.png)
+
+### Selección de horario
+![Horarios](horarios.png)
+
+### Confirmación de reserva
+![Confirmación](confirmacion.png)
+
+### Panel administrativo
+![Admin](admin.png)
+
 ## Autor
 
 Marcelo Velasco Ambía
