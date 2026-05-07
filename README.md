@@ -38,7 +38,7 @@ El proyecto nació como una solución enfocada en negocios pequeños que necesit
 ![Confirmación](confirmacion.png)
 
 ### Panel administrativo
-![Admin](admin.png)
+![Admin](panel-admin.png)
 
 ## Autor
 
