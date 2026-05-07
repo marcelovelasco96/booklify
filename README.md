@@ -2,6 +2,10 @@
 
 Aplicación web desarrollada en Laravel para gestionar reservas, servicios y horarios desde un flujo público simple y un panel administrativo.
 
+## Enfoque del proyecto
+
+Booklify fue desarrollado como una base flexible para sistemas de reservas online orientados a distintos tipos de negocios y servicios.
+
 ## Características
 
 - Reservas online
@@ -12,6 +16,7 @@ Aplicación web desarrollada en Laravel para gestionar reservas, servicios y hor
 - Flujo público de reservas
 - Interfaz responsive
 - Dashboard administrativo
+- Arquitectura reutilizable para distintas implementaciones
 
 ## Stack
 
@@ -21,24 +26,6 @@ Aplicación web desarrollada en Laravel para gestionar reservas, servicios y hor
 - Blade
 - Tailwind CSS
 - Vite
-
-## Proyecto demo
-
-El proyecto nació como una solución enfocada en negocios pequeños que necesitan gestionar reservas online de forma simple, rápida y sin depender de plataformas complejas.
-
-## Capturas
-
-### Reservas online
-![Reservas](reservas.png)
-
-### Selección de horario
-![Horarios](horarios.png)
-
-### Confirmación de reserva
-![Confirmación](confirmacion.png)
-
-### Panel administrativo
-![Admin](panel-admin.png)
 
 ## Autor
 
